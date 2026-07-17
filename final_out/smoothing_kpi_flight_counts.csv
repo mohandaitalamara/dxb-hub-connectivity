@@ -1,0 +1,10 @@
+metric,before,after,delta,delta_pct
+total_legs,3346,3346,0,0.0
+dxb_departures,1614,1614,0,0.0
+dxb_arrivals,1615,1615,0,0.0
+peak_departures_15min,9.857,9.143,-0.7139999999999986,-7.24
+peak_arrivals_15min,10.857,10.0,-0.8569999999999993,-7.89
+peak_total_15min,10.857,10.0,-0.8569999999999993,-7.89
+flight_contact_rate_pct,92.68,97.66,4.98,5.37
+stay_contact_rate_pct,84.2,89.4,5.2,6.18
+double_tow_rate_pct,8.49,8.26,-0.23,-2.71

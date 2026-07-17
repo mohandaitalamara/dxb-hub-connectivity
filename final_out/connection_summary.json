@@ -1,0 +1,43 @@
+{
+  "alpha": 0.5,
+  "beta": 2.0,
+  "objective_value": 54197110.42,
+  "fleet_overflow_total": 0,
+  "dxb_stays": 1453,
+  "stays_on_contact": 1299,
+  "stays_on_towed": 120,
+  "stays_on_large": 34,
+  "contact_capacity": 66,
+  "tail_swaps": 415,
+  "top_ond_count": 500,
+  "onds_served": 500,
+  "avg_indicator_served": 0.9409,
+  "total_revenue_captured": 111651810.83,
+  "max_possible_revenue": 118222918.79,
+  "revenue_capture_ratio": 0.9444,
+  "connections_considered": 8523,
+  "params": {
+    "alpha": 0.5,
+    "beta": 2.0,
+    "min_cnx_time_min": 60,
+    "max_cnx_time_min": 360,
+    "max_circuity": 2.5,
+    "top_ond": 500,
+    "default_avg_revenue": 200.0,
+    "large_event_penalty": 10000,
+    "long_stay_min": 360,
+    "smoothing_cap_bin_min": 15,
+    "smoothing_cap_max_dep_per_bin": 12.0,
+    "smoothing_cap_max_arr_per_bin": 12.0,
+    "smoothing_cap_max_total_per_bin": null
+  },
+  "baseline": {
+    "dxb_stays": 1449,
+    "stays_on_large": 106,
+    "stays_on_contact": 1343,
+    "door_occupancy_initial_csv": "final_out_alpha0p5_beta2/door_occupancy_initial.csv"
+  },
+  "door_occupancy_initial_csv": "final_out_alpha0p5_beta2/door_occupancy_initial.csv",
+  "door_occupancy_final_csv": "final_out_alpha0p5_beta2/door_occupancy_final.csv",
+  "door_occupancy_initial_vs_stage2_csv": "final_out_alpha0p5_beta2/door_occupancy_initial_vs_stage2.csv"
+}

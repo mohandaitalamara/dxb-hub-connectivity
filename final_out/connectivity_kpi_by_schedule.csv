@@ -1,0 +1,4 @@
+schedule,connected_onds_top,revenue_top,avg_indicator_top,connected_onds_all,revenue_all,pax_connected_all
+original,491,87772399.53,0.7487,6543,186130577.54,1274901.0
+smoothed,491,87772399.53,0.7487,6543,186130577.54,1274901.0
+enhanced,500,111877174.17,0.9426,6822,235041176.04,1301789.0
